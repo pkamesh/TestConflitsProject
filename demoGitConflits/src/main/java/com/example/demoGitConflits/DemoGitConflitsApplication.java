@@ -10,7 +10,7 @@ public class DemoGitConflitsApplication {
 		SpringApplication.run(DemoGitConflitsApplication.class, args);
 		
 		//SJKFJLSdfdf111111333331111dfdfdfdfKLSDJFLSJD
-		//niccomm113333222222222222211111ments
-		
+		//niccomm113--2222------22222222--------3332------22222222222211111ments
+	    //nice broooo	
 	}
 }
