@@ -9,8 +9,8 @@ public class DemoGitConflitsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGitConflitsApplication.class, args);
 		
-		//SJKFJLSDJgggggFf1111fdfdf111111333331111dfdfdfdfKLSDJFLSJD
-		//nice comm1111111ments
+		//SJKFJLSdfdf111111333331111dfdfdfdfKLSDJFLSJD
+		//nice comm11222222222222211111ments
 		
 	}
 }
